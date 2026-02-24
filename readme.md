@@ -51,11 +51,5 @@ The model achieved an accuracy of 91% on the validation set. Below are some samp
 
 The plot shows the training and validation accuracy over 100 epochs, demonstrating the model's learning progression.
 
-## Usage
-
-To use this model, clone the repository and ensure you have the necessary dependencies installed:
 
 ```bash
-git clone https://github.com/aymen-000/AIQuest_DATATHON.git
-cd AIQuest_DATATHON
-pip install -r requirements.txt
